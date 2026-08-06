@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,Membership,Frequency,Recency,T,AvgOrderValue,TotalSpent
+C001,22,Male,Free,2,30,180,899,1798
+C002,28,Female,Premium,8,12,365,1499,11992
+C003,35,Male,Basic,4,45,250,999,3996
+C004,24,Female,Premium,10,5,400,1999,19990
+C005,31,Male,Basic,5,60,300,1299,6495
+C006,27,Female,Free,1,120,200,799,799
+C007,29,Male,Premium,12,3,450,1599,19188
+C008,40,Female,Basic,6,40,350,999,5994
+C009,21,Male,Free,2,80,210,699,1398
+C010,33,Female,Premium,9,15,390,1799,16191
