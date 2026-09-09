@@ -1,6 +1,0 @@
-order_id,customer_id,order_date,total_amount,order_status,product_id,quantity,subtotal
-101,1,2026-08-17,1800.00,Completed,201,3,1500.00
-101,1,2026-08-17,1800.00,Completed,202,1,500.00
-103,1,2026-08-18,1200.00,NULL,203,1,1200.00
-104,1,2026-08-19,1800.00,NULL,204,2,1800.00
-104,1,2026-08-19,1800.00,NULL,207,1,300.00
