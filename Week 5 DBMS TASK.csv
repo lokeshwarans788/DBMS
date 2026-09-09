@@ -1,9 +1,0 @@
-payment_id,customer_name,order_id,payment_mode,payment_date,amount,payment_status
-601,"Arun Kumar",2001,UPI,2026-08-20,12500.00,Successful
-602,"Meena Devi",2002,"Credit Card",2026-08-21,18500.00,Successful
-603,"Karthik Raj",2003,"Debit Card",2026-08-22,4200.00,Successful
-604,"Divya Sri",2004,"Net Banking",2026-08-23,9600.00,Failed
-605,"Naveen Kumar",2005,UPI,2026-08-24,7200.00,Successful
-606,"Arun Kumar",2006,Cash,2026-08-25,3000.00,Successful
-607,"Karthik Raj",2007,UPI,2026-08-26,15500.00,Failed
-608,"Meena Devi",2008,"Credit Card",2026-08-27,8300.00,Successful
