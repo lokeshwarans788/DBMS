@@ -1,0 +1,4 @@
+product_name,stock_quantity,status
+Printer,20,Available
+"Web Camera",8,Available
+Headset,0,"Out of Stock"
