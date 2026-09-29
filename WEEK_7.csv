@@ -1,0 +1,16 @@
+book_id,book_name,category,price,available_copies,member_name,email,city
+103,"Data Structures","Computer Science",750.00,4,Arun,arun@gmail.com,Chennai
+103,"Data Structures","Computer Science",750.00,4,Priya,priya@gmail.com,Madurai
+103,"Data Structures","Computer Science",750.00,4,Karthik,karthik@gmail.com,Coimbatore
+103,"Data Structures","Computer Science",750.00,4,Divya,divya@gmail.com,Chennai
+103,"Data Structures","Computer Science",750.00,4,Rahul,rahul@gmail.com,Salem
+101,"Java Programming",Programming,650.00,5,Arun,arun@gmail.com,Chennai
+101,"Java Programming",Programming,650.00,5,Priya,priya@gmail.com,Madurai
+101,"Java Programming",Programming,650.00,5,Karthik,karthik@gmail.com,Coimbatore
+101,"Java Programming",Programming,650.00,5,Divya,divya@gmail.com,Chennai
+101,"Java Programming",Programming,650.00,5,Rahul,rahul@gmail.com,Salem
+102,"Python Basics",Programming,550.00,8,Arun,arun@gmail.com,Chennai
+102,"Python Basics",Programming,550.00,8,Priya,priya@gmail.com,Madurai
+102,"Python Basics",Programming,550.00,8,Karthik,karthik@gmail.com,Coimbatore
+102,"Python Basics",Programming,550.00,8,Divya,divya@gmail.com,Chennai
+102,"Python Basics",Programming,550.00,8,Rahul,rahul@gmail.com,Salem
