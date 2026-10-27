@@ -1,0 +1,4 @@
+customer_name,city,order_id,order_date,product_name,price,quantity,total_amount,payment_status
+Arun,Chennai,1001,2026-10-01,Laptop,50000.00,1,50000.00,Paid
+Priya,Madurai,1002,2026-10-02,Mobile,20000.00,2,40000.00,Paid
+Arun,Chennai,1003,2026-10-03,Keyboard,1000.00,1,1000.00,"Not Paid"
